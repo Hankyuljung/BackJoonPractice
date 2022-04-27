@@ -18,7 +18,7 @@ ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 �
  */
 import java.util.Scanner;
 
-public class exam18108 {
+public class Exam18108 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int i = sc.nextInt();

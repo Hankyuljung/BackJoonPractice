@@ -31,7 +31,7 @@ KOI 전자에서는 건강에 좋고 맛있는 훈제오리구이 요리를 간�
  */
 import java.util.Scanner;
 
-public class exam2525 {
+public class Exam2525 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
